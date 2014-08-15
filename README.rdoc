@@ -1,3 +1,11 @@
 = redmine_list_simple_customize
 
-Description goes here
+This plugin add some information, like "due date", for issue list of "my page" and so on.
+This plugin overwrites list_simple.html.erb.
+
+このプラグインは、マイページのチケットのリストに期日などの列を追加します。
+
+= Install
+
+1. checkout repositoy to your plugin directory
+2. restart redmine
